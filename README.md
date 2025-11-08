@@ -1,8 +1,4 @@
 # **Multi-Client Group Chat Server - README**
-## Group Members
-- Shikhar Singh (218070973)
-- Harsukh Singh Sagri (210428)
-- Chetan (210282)
 
 ## **1. Assignment Features**
 ### **Implemented Features**
